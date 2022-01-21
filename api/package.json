@@ -32,7 +32,7 @@
     "@adonisjs/view": "^6.0.0",
     "@types/minio": "7.0.7",
     "adonis-drive-minio": "^0.0.8",
-    "canvas": "^2.8.0",
+    "canvas": "^2.9.0",
     "collect.js": "^4.28.6",
     "dayjs": "^1.10.5",
     "lodash": "^4.17.21",
